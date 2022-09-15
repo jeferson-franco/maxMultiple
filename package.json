@@ -1,0 +1,20 @@
+{
+  "name": "maxmultiple",
+  "version": "1.0.0",
+  "description": "Given a `divisor` and a `bound`, find the largest integer `N` such that:",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/maxMultiple.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/maxMultiple/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/maxMultiple#readme"
+}
